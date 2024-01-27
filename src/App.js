@@ -1,6 +1,5 @@
 import HomePage from "./Pages/homePage";
 
-
 function App() {
   return (
     <div className="App">
