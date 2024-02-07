@@ -1,11 +1,8 @@
 import React from 'react'
 
-const HomePage
- = () => {
+const HomePage= () => {
   return (
-    <div>HomePage
-        
-    </div>
+    <div>HomePage</div>
   )
 }
 
