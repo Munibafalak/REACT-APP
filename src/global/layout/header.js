@@ -1,19 +1,19 @@
 import React from 'react'
-import Logo from "../../assests/images/logo/logo.svg"
-
+import Logo from '../../assests/images/logo/logo.svg'
 const Header = () => {
   return (
     <div> 
-         <header>
+
+ <header>
         <div className="logo_img " id>
-          <img src="Logo" alt="" />
+          <img src={Logo} alt="" />
         </div>
         <nav>
           <ul>
             <li>
               Home
             </li>
-            <li className='hover'>
+            <li>
               Service
             </li>
             <li>

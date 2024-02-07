@@ -103,7 +103,7 @@ footer {
 
 .banner_section {
     padding: 50px 0px;
-    background: url("../assets/images/home/banner/bg_banner.svg");
+   /* background: url("../assets/images/home/banner/bg_banner.svg");*/
     background-repeat: no-repeat;
     background-position: right;
     background-size: contain;
